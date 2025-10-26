@@ -40,8 +40,8 @@ A lightweight, proof-of-work blockchain cryptocurrency written in Python with as
 #### Run
 ```bash
 # Clone repository
-git clone https://github.com/tosterlolz/Owonero.git
-cd Owonero
+git clone https://github.com/Deenpro1/Owonero-python
+cd Owonero-python
 
 # Install Python dependencies
 pip install -r requirements.txt
@@ -53,10 +53,10 @@ python src/main.py
 #### Update Existing Installation
 ```bash
 # Navigate to your Owonero directory
-cd Owonero
+cd Owonero-python
 
 # Pull latest changes
-git pull origin python-experimental
+git pull origin main
 
 # Update Python dependencies (if requirements.txt changed)
 pip install -r requirements.txt --upgrade
@@ -174,8 +174,8 @@ ok
 
 ```bash
 # Clone with submodules
-git clone --recursive https://github.com/tosterlolz/Owonero.git
-cd Owonero
+git clone --recursive https://github.com/Deenpro1/Owonero-python
+cd Owonero-python
 
 # Install dependencies
 pip install -r requirements.txt
@@ -322,8 +322,8 @@ This software is for educational and experimental purposes. It is not intended f
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/tosterlolz/Owonero/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/tosterlolz/Owonero/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Deenpro1/Owonero-python/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Deenpro1/Owonero-python/discussions)
 - **Documentation**: This README and inline code comments
 
 ---
